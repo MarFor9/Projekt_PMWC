@@ -21,7 +21,7 @@ library(rgeos)
 library(RColorBrewer) # zaĹ‚Ä…czam biblioteke z kolorami
 library(raster)
 
-
+vxcvxcvxvxc
 #=============================================================================
 #============= Wprowadzam dane i przycinam raster ============================
 
